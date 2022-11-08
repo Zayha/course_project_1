@@ -11,3 +11,5 @@ _Задача:_
 **main.py - код программы на Python**
 
 **block diagram/fw_bd.png - блок-схема**
+
+![](block diagram/fw_bd.png)
